@@ -46,16 +46,24 @@
 
 # 협업 자료 및 링크
 
-- [Gamma — 수원시청 사용자 경험(UX) 개선을 위한 여정](https://gamma.app/docs/UX--wvwo3tr39hsrtgq?mode=doc) — 메뉴 탐색, PC·모바일 정보 배치, 주요 서비스와 소식 전달 방식에 대한 분석 및 개선 제안
+- [Gamma — 수원시청 사용자 경험(UX) 개선을 위한 여정](https://gamma.app/docs/UX--wvwo3tr39hsrtgq?mode=doc) — 메뉴 탐색, PC, 모바일 정보 배치, 주요 서비스와 소식 전달 방식에 대한 분석 및 개선 제안
 - [Team1 메인 — 수원시청 리뉴얼 IA](https://docs.google.com/spreadsheets/d/1DrxT4QxNBBee-j7buo-G4EQdLhAKNwlndD1dafVOinE/edit?gid=2132754519#gid=2132754519) — 정보 구조 및 메인 페이지 영역별 담당 정리
+
 이미지: <img width="2026" height="1294" alt="image" src="https://github.com/user-attachments/assets/fb4102a7-4769-4f49-937c-dc8e3909649c" />
 <img width="1204" height="1276" alt="image" src="https://github.com/user-attachments/assets/93e09a21-0efb-4244-a8f2-9ba7a4c6bc9a" />
 
 
   
 - [신주현 — PBL 프로젝트기획서 v0.7](https://docs.google.com/document/d/1haTBaJReAynZu6gOP01vTM773H-mhxqsLH6g_6EdQx0/edit?tab=t.0) — 팀 프로젝트 기획 및 UI/UX 개선 의견
+
+이미지: 
+
+<img width="776" height="1120" alt="image" src="https://github.com/user-attachments/assets/e376290b-f762-428a-b836-92783e19402e" />
+
+
+
 - [학생용 — PBL 프로젝트기획서 v0.5의 사본](https://docs.google.com/document/d/1rLsN0kKjy96yrYQpxHbu18F7BIbXm4d9qU8QYrIIiUg/edit?tab=t.0) — 초기 프로젝트 기획 및 기존 화면 분석
-- [조영서 — RFP 분석워크북 v1의 사본](https://docs.google.com/spreadsheets/d/1kFdx-niDXmn9xN4rDXUJXUio6JG9jv3CMYYLZouz638/edit?gid=0#gid=0) — 제안요청서 분석 및 학습·구현 범위 정리
+- [조영서 — RFP 분석워크북 v1의 사본](https://docs.google.com/spreadsheets/d/1kFdx-niDXmn9xN4rDXUJXUio6JG9jv3CMYYLZouz638/edit?gid=0#gid=0) — 제안요청서 분석 및 학습, 구현 범위 정리
 
 # 팀원 GitHub
 
